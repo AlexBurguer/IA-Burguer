@@ -53,4 +53,5 @@ Pieza en 9 mueve a 6 y Pieza en 12 mueve a 15.
 Pieza en 13 mueve a 7 y Pieza en 8 mueve a 14.
 
 Pieza en 6 mueve a 3 y Pieza en 15 mueve a 18.
+
 Pieza en 7 mueve a 2 y Pieza en 14 mueve a 19.
