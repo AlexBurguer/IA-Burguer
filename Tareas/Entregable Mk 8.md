@@ -10,21 +10,38 @@ Las ranas pueden sartarse entre si, y quedar en la posicion de adelante.
 ### Secuencia de Percepción
 
 VVV _ MMM
+
 VV _ VMMM
+
 VVMV _ MM
+
 VVMVM _ M
+
 VVM _ MVM
+
 V _ MVMVM
+
 _ VMVMVM
+
 MV _ VMVM
+
 MVMV _ VM
+
 MVMVMV _ 
+
 MVMVM _ V
+
 MVM _ MVV
+
 M _ MVMVV
+
 MM _ VMVV
+
 MMMV _ VV
+
 MMM _ VVV
+
+
 
 ## Misioneros y Canibales
 ### Medida de rendimiento
@@ -38,14 +55,25 @@ El bote para cruzar solo puede contener dos personas.
 ### Secuencia de Percepción
 
 MMMCCC | | 
+
 MMMC | CC |
+
 MMMC | C | C
+
 MMM | CC | C
+
 MMM | C | CC
+
 MC | MM | CC
+
 MC | MC | MC
+
 CC | MM | MC
+
 CC | C | MMM
+
 C | CC | MMM
+
  | CC | CMMM
+ 
  |  | CCCMMM
