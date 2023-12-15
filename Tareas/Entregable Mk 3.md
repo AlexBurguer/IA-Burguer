@@ -23,19 +23,34 @@ Para visualizar este problema de una mejor perspectiva, debemos enumerar las cas
 Pieza en 18 mueve a 15 y Pieza en 3 mueve a 6.
 
 Pieza en 17 mueve a 8 y Pieza en 4 mueve a 13.
+
 Pieza en 19 mueve a 14 y Pieza en 2 mueve a 7.
+
 Pieza en 15 mueve a 5 y Pieza en 6 mueve a 16.
+
 Pieza en 8 mueve a 3 y Pieza en 13 mueve a 18.
+
 Pieza en 14 mueve a 9 y Pieza en 7 mueve a 12.
+
 Pieza en 5 mueve a 10 y Pieza en 16 mueve a 11.
+
 Pieza en 9 mueve a 19 y Pieza en 12 mueve a 2.
+
 Pieza en 10 mueve a 4 y Pieza en 11 mueve a 7.
+
 Pieza en 20 mueve a 10 y Pieza en 1 mueve a 11.
+
 Pieza en 3 mueve a 9 y Pieza en 18 mueve a 12.
+
 Pieza en 10 mueve a 13 y Pieza en 11 mueve a 8.
+
 Pieza en 19 mueve a 16 y Pieza en 2 mueve a 5.
+
 Pieza en 16 mueve a 1 y Pieza en 5 mueve a 20.
+
 Pieza en 9 mueve a 6 y Pieza en 12 mueve a 15.
+
 Pieza en 13 mueve a 7 y Pieza en 8 mueve a 14.
+
 Pieza en 6 mueve a 3 y Pieza en 15 mueve a 18.
 Pieza en 7 mueve a 2 y Pieza en 14 mueve a 19.
