@@ -18,8 +18,10 @@ Si bien puede no parecer lo suficientemente importante, este tipo de problemas n
 
 
 ## Solución
-Para visualizar este problema de una mejor perspectiva, debemos enumerar las casillas del tablero en filas, de izquierda a derecha y de arriba hacia abajo, el tablero es de veinte casillas por lo que la esquina superior izquierda tendrá el numero uno y la esquina inferior derecha tendrá el numero veinte, ahora, de acuerdo a internet y por razones de agotamiento físico y mental, los movimientos vienen dados por:.
+Para visualizar este problema de una mejor perspectiva, debemos enumerar las casillas del tablero en filas, de izquierda a derecha y de arriba hacia abajo, el tablero es de veinte casillas por lo que la esquina superior izquierda tendrá el numero uno y la esquina inferior derecha tendrá el numero veinte, ahora, de acuerdo a internet y por razones de agotamiento físico y mental, los movimientos vienen dados por:
+
 Pieza en 18 mueve a 15 y Pieza en 3 mueve a 6.
+
 Pieza en 17 mueve a 8 y Pieza en 4 mueve a 13.
 Pieza en 19 mueve a 14 y Pieza en 2 mueve a 7.
 Pieza en 15 mueve a 5 y Pieza en 6 mueve a 16.
