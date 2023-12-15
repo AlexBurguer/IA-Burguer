@@ -2,11 +2,11 @@
 Para resolver este problema, debemos determinar la posición en la que Josephus debería colocarse previo al ritual para ser el último superviviente, el proceso de selección a víctima consiste en un recorrido de saltos, cada vez que un salto coincide con una persona, este es eliminado, el patron continua hasta terminar con el total de personas excepto una.
 Existe una formula que determina la posición del único superviviente, que se expresa de la siguiente manera:
 ```python
-Def lone_survivor(n):
-	If n == 1:
-		Return 1
-	Else:
-		Return (lone_survivor(n - 1) + 1) % n + 1
+def lone_survivor(n):
+	if n == 1:
+		return 1
+	else:
+		return (lone_survivor(n - 1) + 1) % n + 1
 ```
 
 
