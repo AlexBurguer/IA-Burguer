@@ -20,3 +20,20 @@ Dentro del modo de color HSV, podemos encontrar que los colores se dividen ya no
 
 Lo que se necesita para nuestro programa, es primeramente la imagen, esta seguramente vendrá en un formato como jpg o png, mismos formatos que por defecto otros programas usan el modo RGB, de esta manera se necesita primero transformar el modo de color a HSV, de esta manera tendremos un solo canal por el que pasan todos los colores, y podremos realizar el filtrado de estos fácilmente, a continuación se presenta el programa realizado en clase que hace posible esto.
 
+```python
+import cv2 as cv
+img = cv.imread('f1.png',1)
+img2 = cv.cvtColor(img, cv.COLOR_BGR2RGB)
+img3 = cv.cvtColor(img2, cv.COLOR_RGB2HSV)
+
+umbralAlto=(0,80,80)
+umbralBajo=(10,255,255)
+
+mascara1 = cv.inRange(img3, umbralBajo, umbralAlto)
+
+resultado = cv.bitwise_and(img, img, mask=mascara1)
+
+cv.imshow('img3', img3)
+cv.waitKey(0)
+cv.destroyAllWindows()
+```
